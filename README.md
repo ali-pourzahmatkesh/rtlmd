@@ -1,16 +1,30 @@
-[RTL Markdown Editor](http://dariubs.github.io/rtlmd) [![Join the chat at https://gitter.im/dariubs/rtlmd](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dariubs/rtlmd?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-=====
-Simple rtl markdown editor for rtl languages.
+سلام دنیا
+===
 
-Feel free to use code blocks and see them ltr :D
+این یک نوشتار آزمایشی برای نمایش قابلیتهای [مارک داون](http://daringfireball.net/projects/markdown/) است.
 
-by [@dariubs](http://dariubs.github.io)
+یک لیست
+---
+
+ویژگی های نرم افزار آزاد
+
+* آزادی اجرای برنامه برای هر کاری (آزادی صفرم)
+* *آزادی مطالعه چگونگی کار برنامه و تغییر آن (پیش نیاز: متن برنامه) (آزادی یکم)*
+* **آزادی تکثیر و کپی برنامه (آزادی دوم)**
+* ***آزادی تقویت و بهتر کردن برنامه و توزیع آن برای همگان (پیش نیاز: متن برنامه) (آزادی سوم)***
 
 
-To-do
------
-check [enhancement](https://github.com/dariubs/rtlmd/labels/enhancement) tag on repo issues.
+قابلیت افزودن تکه کدها
+---
+```javascript
+alert("Hello World")
+```
 
-License
------
-[MIT](https://github.com/dariubs/rtlmd/blob/gh-pages/license)
+و نوشته های تورفته
+---
+>آزادی نرم‌افزارهای آزاد تا جایی هست که حتی می‌توان بدون پرداخت هزینه‌ای برای مجوز، کپی‌هایی از یک نرم‌افزار آزاد را، یا بدون تغییرات، رایگان یا در ازای دریافت وجه، برای هرکس و هرجایی آن را توزیع کرد.
+
+و اضافه کردن لینک ها
+---
+- [بنیاد نرم افزار آزاد](http://www.fsf.org/)
+- [بنیاد گنو](https://www.gnu.org)
